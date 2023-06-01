@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Ibne Hossain</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoyfahad30" alt="hridoyfahad30" /></a> </p>
-
 - 🌱 I’m currently learning MERN Stack **MongoDB, Express, React, Node.**
 
 - 🤝 I’m try to learn **Angular js, Typescript**
